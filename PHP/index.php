@@ -1,5 +1,6 @@
 <html>
 <body>
-<h12>meu primeiro php 2<h12>
+<h12>Meu primeiro php 2<h12>
+<? %TIME& ?>
 </body>
 </html>
